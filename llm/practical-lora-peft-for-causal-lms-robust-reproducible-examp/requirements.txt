@@ -1,0 +1,7 @@
+transformers>=4.30.0
+peft>=0.4.0
+torch>=1.13.1
+datasets>=2.8.0
+accelerate>=0.19.0
+# Optional (only for QLoRA / 4-bit training; not required for this minimal example):
+# bitsandbytes>=0.39.0
