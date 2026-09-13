@@ -1,0 +1,1 @@
+transformers>=4.20.0\ntorch>=1.13.0\npymilvus>=2.3.0\nsentencepiece>=0.1.95  # optional: only required for some tokenizers\n
