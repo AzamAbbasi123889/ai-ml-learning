@@ -1,0 +1,7 @@
+sentence-transformers>=2.2.0
+torch
+transformers
+numpy
+
+# Note: sentence-transformers has specific compatibility constraints with torch and transformers for some releases.
+# Pin exact versions in production or test your environment (for example: sentence-transformers==2.2.2, torch==2.1.0, transformers==4.34.0) if you encounter version errors.
