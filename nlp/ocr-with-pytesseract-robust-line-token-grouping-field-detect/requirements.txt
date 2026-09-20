@@ -1,0 +1,6 @@
+opencv-python==4.7.0.72
+pytesseract==0.3.10
+numpy==1.25.0
+# Optional for PDF support:
+pdf2image==1.16.3
+# Note: Tesseract OCR binary (system package) is required; poppler is required if using pdf2image
