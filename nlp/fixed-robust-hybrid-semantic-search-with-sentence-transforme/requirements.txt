@@ -1,0 +1,7 @@
+sentence-transformers>=2.2.0
+torch>=1.13.1
+faiss-cpu==1.7.4  # Note: platform-sensitive; see FAISS guidance below (use conda on some platforms)
+rank_bm25>=0.2.2
+numpy>=1.24
+scikit-learn>=1.3.0
+scipy>=1.11.0
